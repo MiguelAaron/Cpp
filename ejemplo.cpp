@@ -1,8 +1,10 @@
-#include
+#include<iostream>
+
+using namespace std;
 
 int main()
 {
-printf("Hola mundo");
-printf("Adios");
+cout<<"Hola mundo\n";
+cout<<"Adios\n";
 return 0;
 }
