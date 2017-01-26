@@ -8,10 +8,11 @@ int main()
 {
   int N = 0;
   int F = 1;
-  int U = N;
+  int U = 0;
 
   cout<<"Escribe un numero: ";
   cin>>N;
+  U = N;
   
   while(U > 1)
   {
